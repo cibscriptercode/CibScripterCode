@@ -12,5 +12,5 @@ Technological University Institute Tecnológico del Azuay:
 ## My skills ⚙️
 
 <a href="https://github.com/cibscriptercode">
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cibscriptercode&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cibscriptercode&layout=compact&langs_count=10&theme=algolia"/>
 </a>
