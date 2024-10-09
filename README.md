@@ -7,7 +7,9 @@ My name is Eduardo (Chrïss Ēduum - Cib Scripter Code </>), and I have a great 
 
 Technological University Institute Tecnológico del Azuay:
 - Higher Technology in Software Development. (2022)
-- Higher Technology in Cybersecurity. (In Progress)
+- Higher Technology in Big Data. (In Progress)
+- University Higher Technology in Software Development. (In Progress)
+- Self-taught Cybersecurity. (In Progress)
 
 ## My skills ⚙️
 
